@@ -1,4 +1,4 @@
-# Fitness Tracking
+# Revamp Your Fitness Journey with Mediapipe and Python | Building a Fitness Tracking App
 
 Install Mediapipe and python to run this 
 
