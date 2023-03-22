@@ -1,4 +1,4 @@
-# Fitness-Tracking-App
+# Fitness Tracking
 
 Install Mediapipe and python to run this 
 
